@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>kr.ive.sdk</groupId>
+  <artifactId>quest_tracker</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190904090339</lastUpdated>
+  </versioning>
+</metadata>
