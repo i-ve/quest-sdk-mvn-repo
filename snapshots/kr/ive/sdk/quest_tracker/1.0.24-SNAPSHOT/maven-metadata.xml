@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>kr.ive.sdk</groupId>
+  <artifactId>quest_tracker</artifactId>
+  <version>1.0.24-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190904.093013</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190904093013</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.0.24-20190904.093013-1</value>
+        <updated>20190904093013</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.24-20190904.093013-1</value>
+        <updated>20190904093013</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
