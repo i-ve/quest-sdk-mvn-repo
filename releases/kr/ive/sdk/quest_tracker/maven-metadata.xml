@@ -3,11 +3,12 @@
   <groupId>kr.ive.sdk</groupId>
   <artifactId>quest_tracker</artifactId>
   <versioning>
-    <release>1.0.1</release>
+    <release>1.0.24</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
+      <version>1.0.24</version>
     </versions>
-    <lastUpdated>20190904090044</lastUpdated>
+    <lastUpdated>20190904094944</lastUpdated>
   </versioning>
 </metadata>
